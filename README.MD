@@ -3,7 +3,7 @@
 The Qirab™ Target Holder (QTH) is an open-source holder design for object level targets, such as the [Image Science Associated Golden Thread object level target](https://www.imagescienceassociates.com/object-level-targets.html), to be used with the [Qirab™ Conservation Cradle (QCC)](https://github.com/Qirab/QirabConservationCradle) and the [Qirab™ Digitization Workflow](https://qirab.org/en/docs/resources/manuscriptdigitsationworkflow/).
 
 ![QTH v2.2 with QCC50 v2.3](https://github.com/Qirab/QirabTargetHolder/blob/main/QirabTargetHolder_v2.2_QCC50.png)
-GT Holder v2.2 with QCC50 v2.3
+QTH v2.2 with QCC50 v2.3
 
 The QTH allows precise manual height adjustment with better than 0.5mm accuracy. 
 
