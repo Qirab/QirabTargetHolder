@@ -15,8 +15,6 @@ The QTH can be built with height, arm, and base size optional variations. It has
 ![QTH v2.2 Variations](https://github.com/Qirab/QirabTargetHolder/blob/main/QirabTargetHolder_v2.2_Variations.png)
 Qirab Target Holder v2.2 Variations
 
-Read more on the [Qirab™ project page](https://qirab.org/en/docs/hardware/TargetHolder/).
-
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="رخصة المشاع الابداعي" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />هذا المُصنَّف مرخص بموجب <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">رخصة المشاع الإبداعي نَسب المُصنَّف - الترخيص بالمثل 4.0 دولي</a>.
