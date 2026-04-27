@@ -5,7 +5,7 @@ The Qirab™ Target Holder (QTH) is an open-source design for holding object lev
 ![QTH v2.2 with QCC50 v2.3](https://github.com/Qirab/QirabTargetHolder/blob/main/QirabTargetHolder_v2.2_QCC50.png)
 QTH v2.2 with QCC50 v2.3
 
-The QTH allows precise manual height adjustment with greater than 0.5mm accuracy. 
+The QTH allows precise manual height adjustment with greater than 0.5mm accuracy utilizing a common T8x8 lead screw manual mechanism. 
 
 ![QTH v1 being tested with QCC70](https://github.com/Qirab/QirabTargetHolder/blob/main/QTH_v1.1_QCC70_IMG_0029.jpg)
 QTH v1 being tested with QCC70
