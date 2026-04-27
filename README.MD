@@ -1,20 +1,19 @@
 # Qirab™ Target Holder for the QCC50 & QCC70
 
-The Qirab™ Target Holder (QTH) is an open-source holder design for object level targets, such as the [Image Science Associated Golden Thread object level target](https://www.imagescienceassociates.com/object-level-targets.html), to be used with the [Qirab™ Conservation Cradle (QCC)](https://github.com/Qirab/QirabConservationCradle) and the [Qirab™ Digitization Workflow](https://qirab.org/en/docs/resources/manuscriptdigitsationworkflow/).
+The Qirab™ Target Holder (QTH) is an open-source design for holding object level targets, such as the [Image Science Associated Golden Thread object level target](https://www.imagescienceassociates.com/object-level-targets.html), to be used with the [Qirab™ Conservation Cradle (QCC)](https://github.com/Qirab/QirabConservationCradle) and the [Qirab™ Digitization Workflow](https://qirab.org/en/docs/resources/manuscriptdigitsationworkflow/).
 
 ![QTH v2.2 with QCC50 v2.3](https://github.com/Qirab/QirabTargetHolder/blob/main/QirabTargetHolder_v2.2_QCC50.png)
 QTH v2.2 with QCC50 v2.3
 
-The QTH allows precise manual height adjustment with better than 0.5mm accuracy. 
+The QTH allows precise manual height adjustment with greater than 0.5mm accuracy. 
 
-QTH_v1.1_QCC70_IMG_0029.jpg
 ![QTH v1 being tested with QCC70](https://github.com/Qirab/QirabTargetHolder/blob/main/QTH_v1.1_QCC70_IMG_0029.jpg)
 QTH v1 being tested with QCC70
 
 ![QTH v2.2 Standard Version](https://github.com/Qirab/QirabTargetHolder/blob/main/QirabTargetHolder_v2.2_Standard.png)
 QTH v2.2 Standard Version
 
-The QTH can be built with height, arm, and base size optional variations. It has holder for the 1x and 0.5x Golden Thread object level targets with plans to add the 2x target soon. Other object level target holder could be easily designed and added for project specific needs.
+The QTH can be built with height, arm, and base size optional variations. It has holders for the 1x and 0.5x Golden Thread object level targets with plans to add the 2x target soon. Other object level target holders and attachements could be easily designed and added for project specific needs.
 
 ![QTH v2.2 Variations](https://github.com/Qirab/QirabTargetHolder/blob/main/QirabTargetHolder_v2.2_Variations.png)
 Qirab Target Holder v2.2 Variations
