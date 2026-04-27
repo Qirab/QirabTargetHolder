@@ -7,6 +7,10 @@ QTH v2.2 with QCC50 v2.3
 
 The QTH allows precise manual height adjustment with better than 0.5mm accuracy. 
 
+QTH_v1.1_QCC70_IMG_0029.jpg
+![QTH v1 being tested with QCC70](https://github.com/Qirab/QirabTargetHolder/blob/main/QTH_v1.1_QCC70_IMG_0029.jpg)
+QTH v1 being tested with QCC70
+
 ![QTH v2.2 Standard Version](https://github.com/Qirab/QirabTargetHolder/blob/main/QirabTargetHolder_v2.2_Standard.png)
 QTH v2.2 Standard Version
 
