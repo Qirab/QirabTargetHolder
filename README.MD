@@ -13,7 +13,7 @@ QTH v1 being tested with QCC70
 ![QTH v2.2 Standard Version](https://github.com/Qirab/QirabTargetHolder/blob/main/QirabTargetHolder_v2.2_Standard.png)
 QTH v2.2 Standard Version
 
-The QTH can be built with height (70 or 100mm), arm (170 or 210mm), and base size optional variations (normal of 40mm extension. It has holders for the 1x and 0.5x Golden Thread object level targets with plans to add the 2x target soon. Other object level target holders and attachements could be easily designed and added for project specific needs.
+The QTH can be built with height (70 or 100mm), arm (170 or 210mm), and base size optional variations (normal or 40mm extension). It has holders for the 1x and 0.5x Golden Thread object level targets with plans to add the 2x target soon. Other object level target holders and attachements could be easily designed and added for project specific needs.
 
 ![QTH v2.2 Variations](https://github.com/Qirab/QirabTargetHolder/blob/main/QirabTargetHolder_v2.2_Variations.png)
 Qirab Target Holder v2.2 Variations
