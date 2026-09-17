@@ -1,4 +1,4 @@
-# Qirab™ Target Holder for the QCC50 & QTC50
+# Qirab™ Target Holder for the QCC50 & QCC70
 
 The Qirab™ Target Holder (QTH) is an open-source design for holding object level targets, such as the [Image Science Associated Golden Thread object level target](https://www.imagescienceassociates.com/object-level-targets.html), to be used with the [Qirab™ Conservation Cradle (QCC)](https://github.com/Qirab/QirabConservationCradle) and the [Qirab™ Digitization Workflow](https://qirab.org/en/docs/resources/manuscriptdigitsationworkflow/).
 
